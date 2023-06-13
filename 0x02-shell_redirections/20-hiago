@@ -1,2 +1,2 @@
 #!/bin/bash
-echo input//c/
+tr -d 'C' | tr -d 'c'
